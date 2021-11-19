@@ -1,15 +1,15 @@
+// Styles
+import "./App.css";
 
-    import './App.css';
-    import "./QuoteBox.js"
-    import QuoteBox from "./QuoteBox";
+// Components
+import QuoteBox from "./Views/QuoteBox";
 
-    function App() {
+function App() {
+  return (
+    <div className="App">
+      <QuoteBox />
+    </div>
+  );
+}
 
-      return (
-        <div className="App">
-            <QuoteBox />
-        </div>
-      );
-    }
-
-    export default App;
+export default App;

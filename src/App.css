@@ -16,46 +16,46 @@
 }
 
 .container {
-    padding: 1rem;
-    border-radius: 1rem;
-    background-color: white;
-    width: 50%;
-    height: 50%;
+  padding: 1rem;
+  border-radius: 1rem;
+  background-color: #393e46;
+  width: 50%;
+  height: 50%;
 }
 
 .quoteContainer {
-    height: 80%;
+  height: 80%;
 }
 
 .buttonsContainer {
-    height: 30%;
-    display: flex;
-    justify-content: space-between;
+  height: 30%;
+  display: flex;
+  justify-content: space-between;
 }
 
 .phrase {
-    font-size: large;
-    font-weight: bold;
+  font-size: large;
+  font-weight: bold;
 }
 
 .author {
-    padding: 1rem;
-    color: black;
-    font-style: oblique;
-    font-weight: bold;
+  padding: 1rem;
+
+  font-style: oblique;
+  font-weight: bold;
 }
 
 .NewQuote {
-    padding: 0.1rem;
-    margin: 1rem;
-    color: white;
-    font-weight: bold;
-    border-radius: 0.5rem;
+  padding: 0.1rem;
+  margin: 1rem;
+  color: white;
+  font-weight: bold;
+  border-radius: 0.5rem;
 }
 
 .twitter-share-button {
-    padding: 0.1rem;
-    color: white;
-    margin: 1rem;
-    border-radius: 0.5rem;
+  padding: 0.1rem;
+  color: white;
+  margin: 1rem;
+  border-radius: 0.5rem;
 }
