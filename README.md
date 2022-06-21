@@ -10,7 +10,7 @@ VERCEL:
 
 ## Screenshots
 
-![Screenshot](src/assets/screenshots/screenshot-desktop.png)
+![Screenshot](src/assets/screenshot.png)
 
 ## Libraries
 
